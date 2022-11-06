@@ -1,4 +1,4 @@
-name: purple
+name: Galão
 on:
   workflow_dispatch:
 
