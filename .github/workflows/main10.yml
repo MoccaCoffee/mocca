@@ -1,4 +1,4 @@
-name: brown
+name: Mocha
 on:
   workflow_dispatch:
 
