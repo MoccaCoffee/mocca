@@ -1,4 +1,4 @@
-name: gray
+name: Flat White
 on:
   workflow_dispatch:
 
