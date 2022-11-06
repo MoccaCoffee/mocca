@@ -1,4 +1,4 @@
-name: green
+name: Cappuccino
 on:
   workflow_dispatch:
 
