@@ -1,4 +1,4 @@
-name: yellow
+name: Cortado
 on:
   workflow_dispatch:
 
