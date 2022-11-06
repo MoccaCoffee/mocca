@@ -1,4 +1,4 @@
-name: blue
+name: Latte
 on:
   workflow_dispatch:
 
