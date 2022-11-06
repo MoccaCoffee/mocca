@@ -1,4 +1,4 @@
-name: silver
+name: Macchiato
 on:
   workflow_dispatch:
 
