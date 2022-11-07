@@ -1,4 +1,4 @@
-name: mauve
+name: Nitro Cold Brew
 on:
   workflow_dispatch:
 
