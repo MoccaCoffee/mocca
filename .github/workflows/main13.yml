@@ -1,4 +1,4 @@
-name: olive
+name: Café au Lait
 on:
   workflow_dispatch:
 
