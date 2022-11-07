@@ -1,4 +1,4 @@
-name: gold
+name: Long Macchiato
 on:
   workflow_dispatch:
 
