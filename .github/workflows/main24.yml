@@ -1,4 +1,4 @@
-name: navy
+name: Decaf
 on:
   workflow_dispatch:
 
