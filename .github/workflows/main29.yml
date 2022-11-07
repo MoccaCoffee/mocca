@@ -1,4 +1,4 @@
-name: peach
+name: Frappe
 on:
   workflow_dispatch:
 
