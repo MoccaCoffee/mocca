@@ -1,4 +1,4 @@
-name: teal
+name: Cafe Latte
 on:
   workflow_dispatch:
 
