@@ -1,4 +1,4 @@
-name: violet
+name: Cold Brew
 on:
   workflow_dispatch:
 
