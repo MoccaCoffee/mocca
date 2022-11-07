@@ -1,4 +1,4 @@
-name: coral
+name: Mocha Latte
 on:
   workflow_dispatch:
 
