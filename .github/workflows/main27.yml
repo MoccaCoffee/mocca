@@ -1,4 +1,4 @@
-name: lavender
+name: Iced Latte
 on:
   workflow_dispatch:
 
