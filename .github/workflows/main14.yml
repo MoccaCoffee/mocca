@@ -1,4 +1,4 @@
-name: maroon
+name: Iced Coffee
 on:
   workflow_dispatch:
 
