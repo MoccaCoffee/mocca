@@ -1,4 +1,4 @@
-name: burgundy
+name: Irish Coffee
 on:
   workflow_dispatch:
 
