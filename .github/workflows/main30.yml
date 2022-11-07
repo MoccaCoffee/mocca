@@ -1,4 +1,4 @@
-name: rust
+name: Arabica
 on:
   workflow_dispatch:
 
