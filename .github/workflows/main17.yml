@@ -1,4 +1,4 @@
-name: magenta
+name: Red Eye
 on:
   workflow_dispatch:
 
