@@ -1,4 +1,4 @@
-name: pink
+name: Affogato
 on:
   workflow_dispatch:
 
