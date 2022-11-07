@@ -1,4 +1,4 @@
-name: tan
+name: Breve
 on:
   workflow_dispatch:
 
