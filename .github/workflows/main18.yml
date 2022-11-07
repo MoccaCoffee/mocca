@@ -1,4 +1,4 @@
-name: bronze
+name: Black Eye
 on:
   workflow_dispatch:
 
