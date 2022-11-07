@@ -1,4 +1,4 @@
-name: mustard
+name: Vienna
 on:
   workflow_dispatch:
 
