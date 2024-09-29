@@ -12,7 +12,7 @@ import (
 	"github.com/gorilla/websocket"
 )
 
-const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.91 Safari/537.36"
+const userAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 
 type AuthTokenResponse struct {
 	Token   string `json:"token"`
@@ -91,7 +91,7 @@ func wsClient(host, path string) (*websocket.Conn, error) {
 func getAuthToken() (*AuthTokenResponse, error) {
 	resp, err := httpRequest(
 		"POST",
-		"https://api-3.irccloud.com/chat/auth-formtoken",
+		"https://www.irccloud.com/chat/auth-formtoken",
 		nil,
 		map[string]string{
 			"User-Agent": userAgent,
